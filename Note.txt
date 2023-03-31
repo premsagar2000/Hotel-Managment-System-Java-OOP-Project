@@ -1,0 +1,14 @@
+Greetings Sir,
+
+This project contains three folders, MainFrame, Jar file and Database Files. 
+
+1.Main Frame folder should be opened in the Netbeans IDE for the execution of the project.
+
+2. Jar file folder contains jar file as well as .class files. In order to execute the jar fie, you need
+to place this folder directly inside C directory in order for some images to load.
+
+3. Database Files folder contains all the database files that we have used in the project.
+
+
+Suggestion: 
+	Kindly execute this project by opening MainFrame folder in Netbeans IDE.
